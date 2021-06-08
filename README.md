@@ -1,5 +1,5 @@
 # Project02_EF_ASP.NET_MVC
-In this project I implement this ER with the relations.
+In this project I implemented this ER with the relations.
 
 ![tagoreillycom20070221oreillyimages86449](https://user-images.githubusercontent.com/82446110/121172537-7a58fd00-c860-11eb-8c8f-ac739b0d8c81.png)
 
